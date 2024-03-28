@@ -8,7 +8,7 @@ It also generated a partition file (i.e., gives you locus position in the matrix
 Make sure to check information below!
 
 Rationale:
-1) Script captures "OTU_name" (i.e., uses ">" FASTA identifier and discards the rest of the sequence metadata;
-2) Script then generate list of terminals from each alignment;
+1) Script captures "OTU_name" (i.e., uses ">" FASTA identifier discarding sequence metadata);
+2) Script then generates list of terminals from each alignment;
 ATTENTION: 'OTU name' MUST be exactly the same in all files to be considered the same terminal entry.
 OTUs are separated from the locus name with the argument "-d".
