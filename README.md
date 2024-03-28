@@ -1,5 +1,10 @@
 # fasta_merger
 Python script helping concatenating FASTA alignments
+Readme - Mar/28/2024
+
+Rodolfo Probst (probstrodolfo@gmail.com)
+
+(a) Science Research Initiative (SRI) - College of Science, University of Utah (b) School of Biological Sciences, University of Utah
 
 This is a product of my frustration working with files with different OTUs. Based on online input (thank you, StackOverflow community!),
 I thought a Python script helping concatenating FASTA alignments would be helpful.
