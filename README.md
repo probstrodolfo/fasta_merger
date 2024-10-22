@@ -11,7 +11,7 @@ Rodolfo Probst (probstrodolfo@gmail.com)
 This is a product of my frustration working with files with different OTUs. Based on online input (thank you, StackOverflow community!),
 I thought a Python script helping concatenating FASTA alignments would be helpful.
 Note that this script spits out a log reporting on the composition of each alignment (looks wonky, feedback appreciated), their length and the amount of gaps.
-It also generated a partition file (i.e., gives you locus position in the matrix).
+It also generates a partition file (i.e., gives you locus position in the matrix).
 Make sure to check information below!
 
 Input:
